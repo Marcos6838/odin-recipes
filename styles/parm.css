@@ -1,0 +1,12 @@
+h1,
+h2{
+    text-align: center;
+    background-color: lightblue;
+} 
+#parmPic{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

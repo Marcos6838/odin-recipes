@@ -1,0 +1,18 @@
+h1,
+h2{
+    text-align: center;
+    background-color: lightblue;
+}
+
+#ingredients{
+    text-align: center;
+    list-style-position: inside;
+}
+
+#picTenders{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
