@@ -1,8 +1,9 @@
 body{
     background-image: linear-gradient(to right,gray,black);
     text-align: center;
+    color: white;
 }
 
-ul{
+li{
     list-style: none;
 }
